@@ -1,7 +1,9 @@
 ### Hello world 👋
 
 
-- 🔭 I’m currently working on my PhD in Computer Engineering @ Politecnico di Torino on "System-Level-Test techniques for Automotive SoCs"
+- 🔭 I’m currently working (hard!) on my PhD in Computer Engineering @ Politecnico di Torino on "System-Level-Test techniques for Automotive SoCs"
+- M.Sc. in Embedded Systems Engineering @ Politecnico di Torino, Italy, A.Y. 2020.
+- Erasmus Student @ Chalmers University of Technology during A.Y. 2019/2020
 - 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate on Real-Time Operating Systems
 
