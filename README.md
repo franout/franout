@@ -39,3 +39,6 @@ TCL - System Verilog - Verilog - VHDL
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![franout's github stats](https://github-readme-stats.vercel.app/api?username=franout&show_icons=true&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franout&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/franout/github-readme-stats)
