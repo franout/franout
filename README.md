@@ -1,44 +1,71 @@
-### Hello world 👋
+### Hi there, I'm Francesco 👋
 
+**Embedded Software Engineer · EDA/CAD Engineer · PostDoc researcher @ [Politecnico di Torino](https://www.polito.it/)**
 
-- 🔭 I worked (hard!) on my PhD in Computer Engineering @ Politecnico di Torino on "System-Level-Test techniques for Automotive SoCs"
-- M.Sc. in Embedded Systems Engineering @ Politecnico di Torino, Italy, A.Y. 2020.
-- Erasmus Student @ Chalmers University of Technology during A.Y. 2019/2020
-- 🌱 I’m currently learning.
-- 👯 I’m looking to collaborate on Real-Time Operating Systems.
+I work where software meets silicon, and how they interlace. 
 
-<!--
-**franout/franout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a PostDoc, in collaboration with industrial partners, I develop functional test methodologies that detect manufacturing defects in high-end processors, build software-based safety mechanisms for safety-critical systems, and design and automate EDA flows for hardware test.
 
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+My PhD thesis, *"System-Level Test Techniques for Automotive SoCs"*, developed methods to generate and grade system-level tests for large automotive chips.
 
+---
 
+### 🧰 Tech stack
 
+**Languages**
 
-- ⚡ Fun fact: ...
--->
-
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![TCL](https://img.shields.io/badge/TCL-4E6E8E?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly_(Arm%2FMIPS)-654FF0?style=for-the-badge)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Hardware design & verification**
 
-TCL - System Verilog - Verilog - VHDL 
+![VHDL](https://img.shields.io/badge/VHDL-5A5A5A?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-5A5A5A?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog_%2F_UVM-5A5A5A?style=for-the-badge)
+![Chipyard](https://img.shields.io/badge/Chipyard%2FHammer-003262?style=for-the-badge)
+![Gem5](https://img.shields.io/badge/Gem5-2E7D32?style=for-the-badge)
 
+**Embedded platforms**
 
-## 𝗦𝘁𝗮𝘁𝘀
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arm](https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-8B0000?style=for-the-badge)
+![RTOS](https://img.shields.io/badge/RTOS-F58025?style=for-the-badge)
 
-![franout's github stats](https://github-readme-stats.vercel.app/api?username=franout&show_icons=true&theme=dracula)
+**EDA / CAD tools**
 
+- **Synopsys:** Design Compiler · TestMAX (TetraMAX) · VC Z01X (Z01X) · VCS · Verdi · PrimeTime
+- **Cadence:** Innovus · Incisive
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franout&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/franout/github-readme-stats)
+**DevOps & workflow**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+### 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=franout&show_icons=true&theme=dracula&hide_border=true" alt="franout's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franout&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_HERE)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](LINK_HERE)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescoangione8@gmail.com)
+
+<sub>Off the keyboard: 🥾 trekking · 🍷 wine tasting · 🚗 old car restoration</sub>
